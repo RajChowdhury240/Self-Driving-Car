@@ -14,6 +14,7 @@ from torch.autograd import Variable
 
 # Creating the architecture of the Neural Network
 
+
 class Network(nn.Module):
     
     def __init__(self, input_size, nb_action):
