@@ -11,3 +11,5 @@ the user in real-time.
 1. Install [PyTorch](https://pytorch.org/).
 2. Install [Kivy](https://kivy.org/doc/stable/installation/installation-linux.html).
 3. Open terminal and type `python3 map.py`.
+
+<img src="https://www.hackthebox.eu/badge/210119" alt="rootraj" width="%100" height="%100">
